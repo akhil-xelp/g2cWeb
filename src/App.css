@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background-image: url("https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette_1258-48251.jpg");
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+
+.formContainer{
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: fit-content;
+  align-self: center;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-left: 50px;
+  border-radius: 25px;
+  margin-top: 30px;
+  
+  
+  
+}
+.title{
+  color: #ffffff;
+}
+.inputcss{
+  outline: none;
+}

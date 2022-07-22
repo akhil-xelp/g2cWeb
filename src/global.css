@@ -1,0 +1,91 @@
+.chacking{
+    color: yellow;
+}
+.logoCSS{
+    width: 100px;
+    align-self: center;
+}
+.signinText{
+    font-size: 20px;
+    color: #06237D;
+}
+.inputcss{
+    border-width: 1px;
+    border-radius: 12px;
+    height: 40px;
+}
+.labelcss{
+    align-self: flex-start;
+    margin-top: 15px;
+}
+.formText{
+    color: #06237D;
+    align-self: flex-start;
+    background-color: transparent;
+    outline: none;
+    border-width: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.buttonCss{
+    background-color: #06237D;
+    border-radius: 6px;
+    color: #ffffff;
+    outline: none;
+    border-width: 0px;
+    padding: 5px;
+      margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    font-weight: 500;
+    font-size: 18px;
+   
+}
+.signUpcss{
+    color: #06237D;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.signUpText{
+    font-weight: 0.1px;
+
+}
+
+.tctext{
+    font-weight: 0.1px;
+    margin-top: 50px;
+    font-size: 11px;
+    align-items: flex-end;
+    
+}
+.otpInputField{
+    width: 20px;
+    background-image: linear-gradient(#C4CFE7, #DBE1F1);
+    border-width: 0px;
+    outline: none;
+    margin-right: 20px;
+    height: 45px;
+    width: 40px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+.DOBInputField{
+    width: 20px;
+    border-width: 1px;
+    outline: none;
+    margin-right: 20px;
+    height: 45px;
+    width: 40px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.otpForm{
+    align-self: flex-start;
+}
+.otpText{
+    color: #B3B3B3;
+    align-self: flex-start;
+}

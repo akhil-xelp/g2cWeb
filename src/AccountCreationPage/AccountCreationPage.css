@@ -1,0 +1,25 @@
+.inputsContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.leftContainerInputs{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+.rightContainerInputs{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+}
+.radioContainer{
+    display: flex;
+    align-self: center;
+    margin: 30px;
+    margin-bottom: 20px;
+    
+}
+.radioButtonCss{
+    margin-left: 30px;
+}
